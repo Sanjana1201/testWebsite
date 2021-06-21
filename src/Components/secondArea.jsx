@@ -1,5 +1,5 @@
 import React from "react";
-import SecondImage from "../../public/secondImage.png";
+import SecondImage from "../images/secondImage.png";
 import { Container, Row, Col } from "react-bootstrap";
 import { Image } from "react-bootstrap";
 

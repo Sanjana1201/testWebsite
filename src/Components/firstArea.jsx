@@ -1,7 +1,7 @@
 import React from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
 import { Container, Row, Col } from "react-bootstrap";
-import MainImage from "../../public/mainImage.png";
+import MainImage from "../images/mainImage.png";
 import { Image } from "react-bootstrap";
 import { Button } from "react-bootstrap";
 

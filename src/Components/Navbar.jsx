@@ -1,5 +1,5 @@
 import React from "react";
-import Logo from "../../public/logo.png";
+import Logo from "../images/logo.png";
 import "bootstrap/dist/css/bootstrap.min.css";
 import HomeIcon from "@material-ui/icons/Home";
 import MailOutlineIcon from "@material-ui/icons/MailOutline";
