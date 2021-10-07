@@ -35,16 +35,16 @@ function NavigationBar() {
                 id="basic-nav-dropdown"
                 style={{ marginLeft: "70px" }}
               >
-                <NavDropdown.Item href="#action/3.1">Action</NavDropdown.Item>
+                <NavDropdown.Item href="#action/3.1">About Dwidasa</NavDropdown.Item>
                 <NavDropdown.Item href="#action/3.2">
-                  Another action
+                  Vision and Mission
                 </NavDropdown.Item>
                 <NavDropdown.Item href="#action/3.3">
-                  Something
+                  Our goals
                 </NavDropdown.Item>
                 <NavDropdown.Divider />
                 <NavDropdown.Item href="#action/3.4">
-                  Separated link
+                  Directors desk
                 </NavDropdown.Item>
               </NavDropdown>
               <NavDropdown
@@ -54,14 +54,14 @@ function NavigationBar() {
               >
                 <NavDropdown.Item href="#action/3.1">Action</NavDropdown.Item>
                 <NavDropdown.Item href="#action/3.2">
-                  Another action
+                  Client Reviews
                 </NavDropdown.Item>
                 <NavDropdown.Item href="#action/3.3">
-                  Something
+                  Samples
                 </NavDropdown.Item>
                 <NavDropdown.Divider />
                 <NavDropdown.Item href="#action/3.4">
-                  Separated link
+                  Ratings
                 </NavDropdown.Item>
               </NavDropdown>
               <Nav.Link href="#home" style={{ marginLeft: "70px" }}>
